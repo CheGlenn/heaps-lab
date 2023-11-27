@@ -1,2 +1,4 @@
-# heaps-lab
-heaps lab (the one that isnt forked from sam)
+lab-heaps
+---------
+
+A lab on heaps and heapsort.
